@@ -2,10 +2,10 @@
   <img alt="Nava PBC" src="public/images/logo.png" width="200">
 </p>
 
-<h1 align="center">ASP Form-Filling Assistant</h1>
+<h1 align="center">Form-Filling Assistant</h1>
 
 <p align="center">
-  An AI-powered chatbot that helps users complete forms through intelligent conversation and browser automation.
+  GenAI-powered tool that completes benefit application forms with caseworker oversight
 </p>
 
 <p align="center">
